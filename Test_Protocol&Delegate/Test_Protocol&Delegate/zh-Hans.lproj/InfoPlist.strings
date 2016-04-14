@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Test_Protocol&Delegate
+
+  Created by forp on 16/4/11.
+  Copyright © 2016年 forp. All rights reserved.
+*/
+CFBundleDisplayName="Swift 代理协议";
